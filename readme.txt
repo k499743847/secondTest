@@ -1,2 +1,2 @@
-create a branch is fastccdd
+create a branch is fastccdd and simple
 
